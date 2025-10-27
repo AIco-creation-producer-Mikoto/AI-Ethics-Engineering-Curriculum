@@ -1,4 +1,11 @@
-# AI-Ethics-Engineering-Curriculum
+---
+## 🇯🇵 日本の皆様へ
+
+本カリキュラムは、AI倫理を「工学」として確立する世界初の試みです。現在は英語で公開していますが、皆様の貴重なご意見を日本語でも歓迎します。
+
+**議論へのご参加は、Discordサーバー内にある日本語チャンネルをご利用ください。**
+* [Discordサーバーへ参加] (Discordの招待リンクをここに再度挿入)
+---# AI-Ethics-Engineering-Curriculum
 A proposal for the world's first interdisciplinary AI Ethics Engineering Major, focusing on Human-AI Coexistence and the ethical implementation of AI.
 # 🌍 The AI Ethics Engineering Initiative (AI EE)
 
